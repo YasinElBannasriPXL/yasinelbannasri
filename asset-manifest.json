@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/yasinelbannasripxl/static/css/main.073c9b0a.css",
+    "main.js": "/yasinelbannasripxl/static/js/main.aa97bc5a.js",
+    "static/js/787.28cb0dcd.chunk.js": "/yasinelbannasripxl/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/yasinelbannasripxl/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/yasinelbannasripxl/index.html",
+    "main.073c9b0a.css.map": "/yasinelbannasripxl/static/css/main.073c9b0a.css.map",
+    "main.aa97bc5a.js.map": "/yasinelbannasripxl/static/js/main.aa97bc5a.js.map",
+    "787.28cb0dcd.chunk.js.map": "/yasinelbannasripxl/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.aa97bc5a.js"
+  ]
+}
